@@ -5,7 +5,7 @@
   <artifactId>AnderCidaGastosSpring</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>AnderCidaGastosSpring1Id Maven Webapp</name>
+  <name>AnderCidaGastosSpring Maven Webapp</name>
   <properties>
         <!-- <org.springframework.version>3.0.5.RELEASE</org.springframework.version> -->
          <spring.version>3.2.1.RELEASE</spring.version>
@@ -16,7 +16,7 @@
    </properties>
   <url>http://maven.apache.org</url>
   <build>
-    <finalName>AnderCidaGastosSpring1Id</finalName>
+    <finalName>AnderCidaGastosSpring</finalName>
 	<plugins>
 	   	<plugin>
 	       	<groupId>org.apache.maven.plugins</groupId>
